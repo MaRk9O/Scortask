@@ -19,7 +19,7 @@
 
 Scortask is a browser-based arcade game where your camera is the controller. The game gives you a target — like **"water bottle"** or **"headphones"** — and you have to find and show it to your camera as fast as possible. Every correct object earns points and bonus time. Chain them back-to-back to build a combo multiplier.
 
-The twist: **the vision model is yours.** You bring your own `.tflite` or TensorFlow.js model (e.g. one trained in [Teachable Machine](https://teachablemachine.withgoogle.com)), drop it in, and the game automatically figures out which of your model's classes are playable targets — filtering to only the everyday objects people realistically have nearby.
+The twist: **the vision model is yours.** You bring your own `.tflite` or TensorFlow.js model, drop it in, and the game automatically figures out which of your model's classes are playable targets — filtering to only the everyday objects people realistically have nearby.
 
 Everything runs offline in the browser. No backend. No API calls. No camera data ever transmitted.
 
