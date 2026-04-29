@@ -161,4 +161,5 @@ Everything — styles, game logic, model loading, camera handling, scoring, UI �
 
 ## License
 
-MIT — do whatever you want with it.
+Scortask License: MIT.
+EfficientNet-B0 License: Apache 2.0.
